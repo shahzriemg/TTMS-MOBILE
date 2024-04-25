@@ -1,0 +1,171 @@
+.awan-bangunan-fc-1-icon {
+    position: absolute;
+    top: -44px;
+    left: 0px;
+    width: 375px;
+    height: 242px;
+    object-fit: cover;
+}
+.e-learning-fc {
+    position: absolute;
+    top: 100px;
+    left: 199px;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    width: 176px;
+    height: 32px;
+}
+.login-page-child {
+    position: absolute;
+    top: 139px;
+    left: 0px;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);
+    border-radius: 34px 34px 0px 0px;
+    background-color: #fff;
+    width: 375px;
+    height: 528px;
+}
+.forgot-password {
+    position: absolute;
+    top: 470px;
+    left: 238px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #35556a;
+    display: flex;
+    align-items: center;
+    width: 110px;
+    height: 32px;
+}
+.remember-me {
+    position: absolute;
+    top: 470px;
+    left: 64px;
+    font-size: 12px;
+    color: #9f9f9f;
+    display: flex;
+    align-items: center;
+    width: 110px;
+    height: 32px;
+}
+.login-page-item {
+    position: absolute;
+    top: 526px;
+    left: 113px;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    background-color: #37566b;
+    width: 153px;
+    height: 41px;
+    cursor: pointer;
+}
+.login {
+    position: absolute;
+    top: 531px;
+    left: 134px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 110px;
+    height: 32px;
+}
+.login-page-inner {
+    position: absolute;
+    top: 429px;
+    left: 45px;
+    box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    background-color: #fff;
+    width: 291px;
+    height: 41px;
+}
+.password {
+    position: absolute;
+    top: 434px;
+    left: 61px;
+    color: rgba(159, 159, 159, 0.64);
+    display: flex;
+    align-items: center;
+    width: 110px;
+    height: 32px;
+}
+.fc-utm-1-icon {
+    position: absolute;
+    top: 173px;
+    left: 45px;
+    width: 284px;
+    height: 51px;
+    object-fit: cover;
+}
+.welcome {
+    position: absolute;
+    top: 254px;
+    left: 108px;
+    font-size: 24px;
+    display: flex;
+    color: #000;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 158px;
+    height: 47px;
+}
+.sign-in-to {
+    position: absolute;
+    top: 291px;
+    left: 61px;
+    font-size: 20px;
+    color: #9f9f9f;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 252px;
+    height: 42px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 363px;
+    left: 45px;
+    box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    background-color: #fff;
+    width: 291px;
+    height: 41px;
+}
+.user-id {
+    position: absolute;
+    top: 367px;
+    left: 61px;
+    color: rgba(159, 159, 159, 0.64);
+    display: flex;
+    align-items: center;
+    width: 110px;
+    height: 32px;
+}
+.login-page-child1 {
+    position: absolute;
+    top: 479px;
+    left: 45px;
+    box-shadow: 0px 1px 16px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    border: 1px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 15px;
+    height: 13px;
+}
+.login-page {
+    width: 100%;
+    position: relative;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    height: 667px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    font-family: Inter;
+}
+
